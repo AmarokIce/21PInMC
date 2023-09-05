@@ -1,0 +1,16 @@
+[
+{
+  "modid": "21points",
+  "name": "21 Points",
+  "description": "¿",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Someoneice"],
+  "credits": "Someoneice",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
