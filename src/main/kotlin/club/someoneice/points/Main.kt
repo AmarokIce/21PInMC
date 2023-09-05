@@ -6,7 +6,7 @@ import cpw.mods.fml.common.event.FMLServerStartingEvent
 import net.minecraft.entity.player.EntityPlayer
 import net.minecraft.util.ChatComponentTranslation
 
-@Mod(modid = Main.MODID)
+@Mod(modid = Main.MODID, acceptableRemoteVersions = "*")
 class Main {
     companion object {
         const val MODID = "21points"
